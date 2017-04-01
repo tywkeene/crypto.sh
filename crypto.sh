@@ -69,6 +69,7 @@ function encrypt(){
     if [ -d $INFILE ]; then
         recursive_shred $INFILE
     else
+        warning
         printf "Shredding file $INFILE\n"
         shred -vfzu -n 32 $INFILE >/dev/null 2>&1
     fi
@@ -89,8 +90,8 @@ function decrypt(){
 }
 
 function usage(){
-    printf "$0 -e[ncrypt] <infile> - to encrypt, overwite, and delete file\n"
-    printf "$0 -d[ecrypt] <infile> <outfile> - to decrypt file\n"
+    printf "$0 -e[ncrypt] <infile> - to encrypt, overwrite, and delete file\n"
+    printf "$0 -d[ecrypt] <infile> - to decrypt file\n"
     exit 0
 }
 
