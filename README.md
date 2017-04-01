@@ -9,4 +9,9 @@
 **YOU HAVE BEEN WARNED**
 
 # Usage
+
+## Single file
 [![asciicast](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x.png)](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x?autoplay=1)
+
+## Directory
+[![asciicast](https://asciinema.org/a/5prfmkovk48w8gwzzvubzjhns.png)](https://asciinema.org/a/5prfmkovk48w8gwzzvubzjhns?autoplay=1)
