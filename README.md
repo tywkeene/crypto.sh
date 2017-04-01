@@ -9,4 +9,4 @@
 **YOU HAVE BEEN WARNED**
 
 # Usage
-[![asciicast](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x.png)](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x)
+[![asciicast](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x.png)](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x?autoplay=1)
