@@ -1,4 +1,6 @@
 *.swo
 *.swp
+*.tar.gz
+*.x
 testfile
 testdir
