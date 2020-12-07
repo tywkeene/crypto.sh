@@ -11,8 +11,6 @@
 
 # Usage
 
-## Single file
-[![asciicast](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x.png)](https://asciinema.org/a/45n3x5q2lt2ebdpksn6s6bg2x?autoplay=1)
+`./crypto.sh -e[ncrypt] <infile>` - to encrypt, overwrite, and delete file
 
-## Directory
-[![asciicast](https://asciinema.org/a/5prfmkovk48w8gwzzvubzjhns.png)](https://asciinema.org/a/5prfmkovk48w8gwzzvubzjhns?autoplay=1)
+`./crypto.sh -d[ecrypt] <infile>` - to decrypt file
